@@ -1,5 +1,10 @@
-## Hi! Nice to meet you!
-<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<div align="center">
+  ##Nice to meet you!
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="500" height="400"/>
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  alt="Coder GIF" width="500" height="400">
+
+</div>  
 * 🔭 I’m currently completing my masters in computer science and working as an intern at eBay
 * 🌱 I’m building scalable machine learning models and deploying them in production
 * 👯 I’m looking to collaborate on any interesting project ideas
