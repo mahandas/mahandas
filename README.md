@@ -2,8 +2,8 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-* 🔭 I’m currently working as an intern at eBay
-* 🌱 I’m currently building scalable machine learning models
+* 🔭 I’m currently completing my masters in computer science and working as an intern at eBay
+* 🌱 I’m building scalable machine learning models and deploying them in production
 * 👯 I’m looking to collaborate on any interesting project ideas
 * 💬 Ask me about work/studies/gym
 * 📫 How to reach me: mahandas17@gmail.com
