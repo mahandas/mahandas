@@ -1,14 +1,12 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
+## Hi! Nice to meet you!
+<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 * 🔭 I’m currently completing my masters in computer science and working as an intern at eBay
 * 🌱 I’m building scalable machine learning models and deploying them in production
 * 👯 I’m looking to collaborate on any interesting project ideas
-* 💬 Ask me about work/studies/gym
+* 💬 Ask me about work/studies/health
 * 📫 How to reach me: mahandas17@gmail.com
 
-<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
 
 <!--
 **mahandas/mahandas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
