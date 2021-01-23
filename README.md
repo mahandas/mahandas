@@ -10,7 +10,7 @@
 * 👯 I’m looking to collaborate on any interesting project ideas
 * 💬 Ask me about work/studies/health
 * 📫 How to reach me: mahandas17@gmail.com
-
+* ⚡ Fun fact: I am more active on corporate git account. So this one wont look very green :/ 
 
 
 <!--
